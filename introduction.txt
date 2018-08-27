@@ -1,0 +1,40 @@
+此文件夹是2017.10.25创建
+源代码非特殊注明为自己码出
+ans为参照答案码出
+算法思维训练至为重要
+使用迭代加深的深度优先搜索思维模式
+不能在一道题上花费过多时间
+
+
+Solved		UVA	10474	Where is the Marble?
+
+	
+Solved		UVA	133	The Dole Queue
+
+	
+Solved		UVA	1339	Ancient Cipher
+
+	
+Solved		UVA	1584	Circular Sequence
+
+	
+Solved		UVA	10815	Andy's First Dictionary
+
+	
+Solved		UVA	489	Hangman Judge
+	
+	
+Solved		UVA	540	Team Queue
+	
+	
+Solved		UVA	213	Message Decoding
+	
+	
+Solved		UVA	136	Ugly Numbers
+	
+	
+Solved		UVA	12096	The SetStack Computer
+	
+	
+Solved		UVA	156	Ananagrams
+
